@@ -1,4 +1,4 @@
-$('.galimg').find('.galimg').each(function(e) {
+$('.galimg').find('img').each(function(e) {
 
 if (this.width > this.height) {
 
